@@ -1,0 +1,19 @@
+body{
+    color: #632810;
+    background-color: #e0c9a9;
+}
+#ozellik{
+    text-align: center;
+}
+.gerekli{
+    background-color: #963102;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px;
+}
+.list1{
+    list-style-type: none;
+    padding-top: 10px;
+    text-align: left;
+    margin-left: 370px;
+}
